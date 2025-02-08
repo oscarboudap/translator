@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs y bases de datos temporales
+logs/
+db.sqlite3
+
+# Archivos de entorno
+.env
+
+# Archivos de compilación
+build/
+dist/
+
+# Archivos de Docker
+*.log
+docker-compose.override.yml
+
+# Configuraciones de editores
+.vscode/
+.idea/
+.DS_Store
